@@ -1,6 +1,6 @@
 # blogAPI
 ##### This reposity hosts a blog API which is used in another Angular project https://github.com/jossiey/Angular     
-##### The URL of final blog website: https://web422-angular.herokuapp.com/home 
+##### Blog website: https://web422-angular.herokuapp.com/home 
 
 ## How it works
 * Git clone https://github.com/jossiey/blogAPI.git
