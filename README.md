@@ -1,5 +1,5 @@
 # blogAPI
-##### This reposity hosts a blog API which is used in another Angular project https://github.com/jossiey/Angular     
+##### This repository hosts a blog API which is used in another Angular project https://github.com/jossiey/Angular     
 ##### Blog website: https://web422-angular.herokuapp.com/home 
 
 ## How it works
